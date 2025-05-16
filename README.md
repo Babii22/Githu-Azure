@@ -67,7 +67,7 @@ O Azure DevOps permite versionar, automatizar e gerenciar projetos de dados, inc
 
 1. Acesse o **Azure DevOps**.
 2. Crie um **novo projeto** e adicione um **Azure Repo Git**.
-3. Estruture o repositório com:
+3. Estruture o repositório.
 
 ### 2. Publicar Data Factory no Azure
 
