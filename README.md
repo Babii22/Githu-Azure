@@ -43,8 +43,6 @@ O Fabric utiliza **capacidades de computação** (F SKUs), parecidas com as do P
 - **Baseado em tempo ativo**: você paga apenas quando a capacidade está ligada.
 - **Utilização sob demanda**: possível escalar de forma elástica.
 
-🔗 Simule seus custos na [Calculadora do Azure](https://azure.microsoft.com/en-us/pricing/calculator/)
-
 ---
 
 ## ⚙️ Azure DevOps + Microsoft Fabric
